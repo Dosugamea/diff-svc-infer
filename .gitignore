@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+infer_tools/f0_temp.json
+checkpoints/chino/model_ckpt_steps_83000.ckpt
+checkpoints/chino/config.yaml
+infer_tools/new_chunks_temp.json
