@@ -1,3 +1,3 @@
-[submodule "diff-svc"]
-	path = diff-svc
+[submodule "diff_svc"]
+	path = diff_svc
 	url = https://github.com/prophesier/diff-svc.git
